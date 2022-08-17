@@ -19,7 +19,7 @@ I love all sorts of blockchain developings like Cryto, Smart Contracts, DApp, et
 
 
 ### 📝Activity
-|Name|Description|Date|
-|:----:|:-----:|:----:|
+|Name|Description|
+|:----:|:-----:|
 
-Woodo.
+Woodo. Private Blockchain project to implement blockchain network in any places where it can outperform the original system.
