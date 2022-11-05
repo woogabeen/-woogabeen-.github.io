@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi
 
-Hi, I'm Gabeen Woo, Sexiest Developer in the World.
+Currently attending Hankuk Academy of Foreign Studies.
 
-Currently attending Hankuk Academy of Foreign Studies (highschool).
-
-I love all sorts of blockchain developings like Cryto, Smart Contracts, DApp, etc but also interested at frontend design projects using HTML5 canvas.
+Crypto, Smart Contract, DeFi, DAO, HTML canvas
 
 
 ### 🛠Tech Stack
@@ -18,7 +16,7 @@ I love all sorts of blockchain developings like Cryto, Smart Contracts, DApp, et
 <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=Javascript&logoColor=white"/></a>
 
 
-### 📝Activity
+### 📝
 
 
 Woodo || Private Blockchain project to implement blockchain network in any places where it can outperform the original system.
